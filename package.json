@@ -1,0 +1,23 @@
+{
+  "name": "tw-laborunion-api",
+  "version": "1.0.0",
+  "description": "\"Taiwan Labor Unions Search API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barry800414/TW-LaborUnion-API.git"
+  },
+  "author": "Wei-Ming Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barry800414/TW-LaborUnion-API/issues"
+  },
+  "homepage": "https://github.com/barry800414/TW-LaborUnion-API#readme",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.0.2"
+  }
+}
