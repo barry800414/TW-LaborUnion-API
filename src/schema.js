@@ -49,7 +49,7 @@ const typeDefs = gql`
   }
 
   enum UnionType {
-    INDUSTRY
+    INDUSTRIAL
     COMPANY
     OCCUPATIONAL
   }
