@@ -17,7 +17,7 @@
 所以，我們決定開啟這個計畫。
 **我們想要跟工會一起打造一個讓台灣勞動環境更好的生態系！**
 
-![](https://i.imgur.com/37oZJ3S.jpg)
+![](https://i.imgur.com/d7J7RZs.png)
 
 
 ## 計畫產出
