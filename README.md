@@ -49,8 +49,8 @@
 ## 我有興趣，要如何參與？
 
 ### 我是工會幹部，我想參與這個計畫
-請直接聯絡我（職場透明化運動 創辦人 陳韋銘）
-Email: barry800414@gmail
+請直接聯絡 GoodJob 職場透明化運動 創辦人 陳韋銘
+Email: barry800414@gmail.com
 
 ### 我是工程師，我想跳坑幫忙
 請先查看 contribution guide，接著就可以看到 issue 就跳坑。
