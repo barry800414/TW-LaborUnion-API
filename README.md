@@ -48,7 +48,7 @@ For 長期曝光：
 ### 1. 工會專屬介紹頁面
 在填寫好工會的介紹後，每一個工會將可以擁有一個專屬的介紹頁面，網址為 `https://www.goodjob.life/labor-unions/[工會名稱]`
 
-[示意圖連結](https://user-images.githubusercontent.com/3805975/71576093-59985e00-2b2a-11ea-9f1d-f1e9df9034b9.png)
+[示意圖連結](https://imgur.com/2V2xZsy)
 
 ### 2. 工會資料管理後台
 除此之外，將會有一組帳號密碼登入工會介紹資料的管理後台，日後不論是要更新介紹、新增活動，都可以隨時進行更新
